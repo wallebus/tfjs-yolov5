@@ -76,6 +76,7 @@ class App extends React.Component {
       // const font = "6px sans-serif";
       // ctx.font = font;
       // ctx.textBaseline = "top";
+      // let a = true;
 
       const [boxes, scores, classes, valid_detections] = res;
       const boxes_data = boxes.dataSync();

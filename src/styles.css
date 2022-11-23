@@ -2,7 +2,7 @@ body {
   color: rgba(64, 64, 64, 0.65);
   font: 500 1em Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
-  text-rendering: optimizelegibility;
+  /* text-rendering: optimizelegibility; */
   margin: 0;
   padding: 0;
 }
